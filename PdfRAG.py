@@ -29,7 +29,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.neighbors import NearestNeighbors
 import PyPDF2
 from google import genai
-os.environ["GOOGLE_API_KEY"] = "Your API KEY"
+os.environ["GOOGLE_API_KEY"] = "your_key_here"
 
 # -------------------------
 # Configuration
