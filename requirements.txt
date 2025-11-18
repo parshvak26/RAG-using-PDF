@@ -1,0 +1,5 @@
+numpy
+sentence-transformers
+scikit-learn
+PyPDF2
+google-genai
