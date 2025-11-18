@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 - Sign up for an [Google gemini account] and obtain your API key, and add it in code below Import
 
-4. Run the Streamlit App
+4. Run this command
 ```CMD
-python PdfRAG.py Algorithm Summaries
+python RAG_using_PDF.py AlgorithmSummaries.pdf
 ```
