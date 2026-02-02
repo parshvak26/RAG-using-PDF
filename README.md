@@ -12,6 +12,7 @@ LLM app with RAG to chat with PDF in just 30 lines of Python Code. The app uses 
 
 1. Clone the GitHub repository
 
+
 ```bash
 git clone https://github.com/parshvak26/RAG-using-PDF.git
 cd chat_with_pdf
